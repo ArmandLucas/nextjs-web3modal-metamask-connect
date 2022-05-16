@@ -1,0 +1,28 @@
+<svg width="496" height="120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g filter="url(#a)">
+    <path d="M461 60c0 9.94-95.36 18-213 18S35 69.94 35 60s95.36-18 213-18 213 8.06 213 18Z" fill="url(#b)"/>
+  </g>
+  <g opacity=".4" filter="url(#c)">
+    <path d="M461 60c0 9.94-95.36 18-213 18S35 69.94 35 60s95.36-18 213-18 213 8.06 213 18Z" fill="url(#d)"/>
+  </g>
+  <defs>
+    <filter id="a" x="23" y="30" width="450" height="60" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur stdDeviation="6" result="effect1_foregroundBlur_596_160"/>
+    </filter>
+    <filter id="c" x="19" y="26" width="458" height="68" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur stdDeviation="8" result="effect1_foregroundBlur_596_160"/>
+    </filter>
+    <radialGradient id="b" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0 18 -213 0 248 60)">
+      <stop/>
+      <stop offset="1" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="d" x1="35" y1="78" x2="461" y2="78" gradientUnits="userSpaceOnUse">
+      <stop/>
+      <stop offset="1" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+</svg>
